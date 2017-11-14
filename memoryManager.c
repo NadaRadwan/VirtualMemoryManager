@@ -117,7 +117,7 @@ void *tlbLookup(){
 		}
 	}
 
-	return;
+	return 0;
 }
 
 
